@@ -1,4 +1,6 @@
-### Can coding change world? 👀👀👀
+# I am software engineer, good at CtrlCVOP.
+❎ Good at OOP
+✅ Good at CtrlCVOP.
 
 
 <!--
