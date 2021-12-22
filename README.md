@@ -1,5 +1,6 @@
-# I am software engineer, good at CtrlCVOP.
-❎ Good at OOP
+# I am software engineer.
+
+❎ Good at OOP. <br/>
 ✅ Good at CtrlCVOP.
 
 
